@@ -41,7 +41,7 @@ Input: leaf_sample.jpg  →  Prediction: Bacterial Leaf Blight (98.3% confidence
 ## 🛠 Tech Stack
 
 - **Language:** Python 3
-- **Framework:** TensorFlow / Keras
+- **Framework:** TensorFlow 
 - **Model:** MobileNetV2 (transfer learning, ImageNet weights)
 - **Environment:** Jupyter Notebook
 
